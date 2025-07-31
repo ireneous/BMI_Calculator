@@ -1,13 +1,10 @@
-# BMI Calculator
+## 🧮 BMI Calculator App
 
-A simple Python program that calculates Body Mass Index (BMI) based on user input for weight and height.
+A simple Streamlit-based web app to calculate Body Mass Index (BMI) and provide health advice.
 
-## Features
+👉 [Try the Live App](https://easybmicalculator.streamlit.app)
 
-- Takes user input for name, weight (lbs), and height (inches)
-- Calculates and displays BMI
-- Categorizes BMI as Underweight, Normal, Overweight, or Obese
-
-## Usage
-
-Run the script in a Python environment or Jupyter Notebook.
+### 📄 Features
+- User input for weight and height
+- Real-time BMI calculation
+- Health classification based on BMI
